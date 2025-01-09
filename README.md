@@ -12,7 +12,7 @@ Clone the repository:
 
 
 
-Create a new branch for your work:
+#Create a new branch for your work:
 git checkout -b initial-setup
 
 
