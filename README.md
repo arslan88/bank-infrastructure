@@ -1,4 +1,4 @@
-# Handelsbanken-DevOps-Infrastructure
+## Handelsbanken-DevOps-Infrastructure
 This project sets up the initial cloud infrastructure for a new bank business using Azure and Terraform.
 
 ## Setup
